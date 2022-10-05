@@ -1,10 +1,5 @@
 # React-Blog
-Here are some main reasons why people blog,
-•	To share one’s own experiences and expertise
-•	To speak up about an issue that we care about
-•	To become more involved with hobbies and passions
-•	To be part of a community
-•	To keep family and friends updated about your life
+
 METHODOLOGY
 •	Creating React header
 •	Blog post component
